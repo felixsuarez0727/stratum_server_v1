@@ -6,7 +6,7 @@
 * Clone the file into your working directory: `git clone https://github.com/felixsuarez0727/stratum_server_v1.git`
 * Install the requirements file: `pip3 install -r requirements.txt`
 * Turn the database service on: `docker-compose up`
-* Execute the service: `python3 svc.py`
+* Execute the service: `python3 server/svc.py`
 
 ## Testing
 
@@ -16,5 +16,5 @@
 
 * You can test our mock service by executing below command:
 
-`bash server/test_svc.sh`
+`bash server/test/test_svc.sh`
 
