@@ -1,0 +1,4 @@
+Flask==1.1.4
+Flask-JSONRPC==1.1.1
+psycopg2==2.9.1
+
