@@ -1,5 +1,8 @@
 # Luxor Interview
 
+# Solution
+The solution of the challenge given to Félix David Suárez Bonilla in located inside the server directory. Enter to that directory for more instrucctions about installing and running.
+
 ## Intro
 Welcome to the Luxor interview repo! This is a casual coding challenge that should take around 2 hours to complete. You'll have a full 24 hours to submit the code, but we definitely don't expect the task to take the entire day.
 
