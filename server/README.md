@@ -18,3 +18,10 @@
 
 `bash server/test/test_svc.sh`
 
+# Deployment in GCP.
+
+The system was deployed in GCP and it will be online for a couple of weeks. See below documentation for testing and more details:
+
+http://34.136.5.130:5001/api/browse
+
+![image](https://user-images.githubusercontent.com/25110207/124396234-83a18200-dcc5-11eb-8c11-42d7594741e1.png)
